@@ -59,21 +59,21 @@ Using the vgs add-on you can collect and protect sensitive data.
 
 	```
 	<form name="my-form" method="POST" netlify secure>
-		<p>
-		  <label>Your Name: <input type="text" name="name" /></label>
-		</p>
-		<p>
-		  <label>Your Email: <input type="email" name="email" /></label>
-		</p>
-		<p>
-		  <label>SSN: <input type="text" name="ssn" data-secure-field /></label>
-		</p>
-		<p>
-		  <label>Message: <textarea name="message"></textarea></label>
-		</p>
-		<p>
-		  <button type="submit">Send Info</button>
-		</p>
+	  <p>
+	    <label>Your Name: <input type="text" name="name" /></label>
+	  </p>
+	  <p>
+	    <label>Your Email: <input type="email" name="email" /></label>
+	  </p>
+	  <p>
+	    <label>SSN: <input type="text" name="ssn" data-secure-field /></label>
+	  </p>
+	  <p>
+	    <label>Message: <textarea name="message"></textarea></label>
+	  </p>
+	  <p>
+	    <button type="submit">Send Info</button>
+	  </p>
 	</form>
 	```
 
