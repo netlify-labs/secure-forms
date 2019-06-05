@@ -19,11 +19,11 @@ Using the vgs add-on you can collect and protect sensitive data.
 
 ## Video
 
-<a href="https://www.youtube.com/watch?v=k2I_4u8_I9s"><img src="https://user-images.githubusercontent.com/532272/58996669-1baea380-87ae-11e9-826d-c0fdfd839d07.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=k2I_4u8_I9s"><img width="600" src="https://user-images.githubusercontent.com/532272/58996669-1baea380-87ae-11e9-826d-c0fdfd839d07.jpg" /></a>
 
 ## How it works
 
-<a href="https://youtu.be/wtYzLdpSeJo"><img src="https://user-images.githubusercontent.com/532272/58996723-51538c80-87ae-11e9-8333-a659cf23caa6.jpg" /></a>
+<a href="https://youtu.be/wtYzLdpSeJo"><img width="600" src="https://user-images.githubusercontent.com/532272/58996723-51538c80-87ae-11e9-8333-a659cf23caa6.jpg" /></a>
 
 ## Setup
 
