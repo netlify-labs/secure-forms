@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'hello'"
+  publish = "src"

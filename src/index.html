@@ -1,0 +1,44 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style type="text/css">
+         .form-control {
+            font-size: 14px;
+          }
+
+          [data-secure-field] iframe {
+            border: 1px solid #dfdfdf;
+            height: inherit;
+            vertical-align: middle;
+            width: inherit;
+            position: relative;
+            line-height: 30px;
+            height: 30px;
+          }
+        </style>
+    </head>
+    <body>
+       <form name="my-form" method="POST" netlify secure>
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <label>SSN: <input type="text" name="ssn" data-secure-field /></label>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit">Send Info</button>
+        </p>
+      </form>
+    </body>
+</html>
