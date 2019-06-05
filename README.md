@@ -81,26 +81,26 @@ Using the vgs add-on you can collect and protect sensitive data.
 
 4. **Install the `vgs` add-on**
 
-  Using the [`netlify-cli`](http://cli.netlify.com) add the `add-on` to your site.
+	  Using the [`netlify-cli`](http://cli.netlify.com) add the `add-on` to your site.
 
-  ```
-  netlify addons:create vgs
-  ```
+	  ```
+	  netlify addons:create vgs
+	  ```
 
-  Then auth with `vgs`
+	  Then auth with `vgs`
 
-  ```
-  netlify addons:auths vgs
-  ```
+	  ```
+	  netlify addons:auths vgs
+	  ```
 
 5. **Then tell VGS the path to your secure form**
 
 
-  ```
-  netlify addons:config vgs --path /
-  ```
+	  ```
+	  netlify addons:config vgs --path /
+	  ```
 
 6. **Visit your site and submit your form.**
 
 
-	View the form submission in the Netlify UI to verify the form redaction is working.
+		View the form submission in the Netlify UI to verify the form redaction is working.
