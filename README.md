@@ -57,7 +57,9 @@ Using the vgs add-on you can collect and protect sensitive data.
 
 3. **After creating your form, add the secure fields**
 
-	```
+	Add the `secure` field to your form and `data-secure-field` to the fields we want redacted.
+
+	```html
 	<form name="my-form" method="POST" netlify secure>
 	  <p>
 	    <label>Your Name: <input type="text" name="name" /></label>
